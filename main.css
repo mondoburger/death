@@ -1,0 +1,118 @@
+header{
+   background: black;
+   width: 200px;
+   height: 1000px;
+   position: fixed;
+}
+
+#nav{
+    font-family:"Comic Sans MS", cursive, sans-serif;
+    font-size: 30px;
+}
+
+.navitems{
+    padding: 40px 0px;
+}
+
+.navitems a:hover{
+    color: #ef5e5e;
+}
+
+
+a{
+   text-decoration: none;
+   color:white;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+
+body {
+    background-color: rgb(174,170,170);
+    margin: 5px;
+} 
+
+
+.tuw{
+   font-family:"Comic Sans MS", cursive, sans-serif;
+  font-size:58px;
+  text-align: center;
+  
+  
+   }
+ .alex{
+   font-family:"Comic Sans MS", cursive, sans-serif;
+  font-size:98px;
+  text-align: center;
+  display: inline;
+}
+ .nick{
+   font-family:"Comic Sans MS", cursive, sans-serif;
+  font-size:47px;
+  text-align: center;
+  display: inline;
+ }
+ .rob{
+     font-family:"Comic Sans MS", cursive, sans-serif;
+  font-size:46px;
+  text-align: center;
+  display: inline;
+ }
+ .picrob{
+     height: 200px;
+     width: 200px;
+ }
+.working{
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  font-size:25px;
+  position:inline;
+}
+.rab{
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  font-size:25px;
+  position:inline;
+}
+.uw {
+   text-align: center;
+}
+.memes{
+    float: right;
+    width: inherit;
+    height: inherit;
+    padding: 200px;
+    
+}
+
+.insta {
+     margin-top: 200px;
+    height: 80px;
+    width: 80px;
+    
+}
+
+.tweeter{
+    height: 80px;
+    width: 80px;
+    
+}
+.pin{
+    height: 80px;
+    width: 80px;
+}
+.pp{
+ text-align:center;
+}
+p{
+    text-align: center;
+}
+#food{
+    text-align: center;
+    height: 600px;
+    width: 600px;
+    padding-left: 200px;
+}
+
+
